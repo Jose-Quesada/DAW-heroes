@@ -22,6 +22,10 @@ export class HeroesService {
       )
   }
 
+  getSuggestions( query: string): Observable<Hero[]>{
+    return this.httpClient.get<Hero[]>(`/heroes?q=${query}&_limit=6`);
+  }
+
 
 
 }
