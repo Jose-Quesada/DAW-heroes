@@ -13,7 +13,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://media.istockphoto.com/id/177228186/es/foto/young-capibara.jpg?s=612x612&w=0&k=20&c=VTZGdHSxdEAqJqL5fS_1INkTC--AGhluPsx6b9sk1NA="
     },
     {
       "id": "dc-flash",
@@ -158,6 +159,42 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "V5ZD3k8",
+      "superhero": "MartosMan",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Churros Man",
+      "first_appearance": "22 01 2025",
+      "characters": "Varios",
+      "alt_img": "https://cdn.recetasderechupete.com/wp-content/uploads/2014/03/churros.jpg"
+    },
+    {
+      "id": "UhKhj3X",
+      "superhero": "Martos2",
+      "publisher": "DC Comics",
+      "alter_ego": "OTro",
+      "first_appearance": "sqdgfasdfewf",
+      "characters": "asdfsadf",
+      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHQqSZHe2Kd93wkhYv2Se7zi0geXkHYcZfyw&s"
+    },
+    {
+      "id": "JL1azDh",
+      "superhero": "fsadf",
+      "publisher": "DC Comics",
+      "alter_ego": "asdfads",
+      "first_appearance": "sadfasd",
+      "characters": "asdfasd",
+      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwn4oMhWgJk6O7qEVfn8coQA37TbvfQ-eKw&s"
+    },
+    {
+      "id": "lix-GGM",
+      "superhero": "sadf",
+      "publisher": "DC Comics",
+      "alter_ego": "asdf",
+      "first_appearance": "asdf",
+      "characters": "asdf",
+      "alt_img": "https://www.zooplus.es/magazine/wp-content/uploads/2024/02/Capibara.jpeg"
     }
   ]
 }
