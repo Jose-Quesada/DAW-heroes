@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { environments } from '../../environments/enviroments';
-import { catchError, map, Observable, of } from 'rxjs';
+import { catchError, map, Observable, of, tap } from 'rxjs';
 import { Hero } from './interfaces/hero.inteface';
 
 @Injectable({providedIn: 'root'})
@@ -43,7 +43,7 @@ export class HeroesService {
         catchError ( err => of(false))
       );
   }
-
+  
 
 
 

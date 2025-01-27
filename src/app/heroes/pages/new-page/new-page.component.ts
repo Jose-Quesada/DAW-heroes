@@ -95,8 +95,11 @@ export class NewPageComponent implements OnInit{
     });
 
     dialogRef.afterClosed().subscribe(result => {
-      console.log('The dialog was closed');
-      console.log({ result });
+      if ( !result ) return;
+      this.heroesService.deleteHeroById( this.currentHero.id )
+      .subscribe( wasDeleted => {
+        if (wasDeleted)  this.router.navigate(['/heroes'])}
+       )
     });
   }
 

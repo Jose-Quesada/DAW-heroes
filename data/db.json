@@ -2,20 +2,11 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
   "heroes": [
-    {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El",
-      "alt_img": "https://media.istockphoto.com/id/177228186/es/foto/young-capibara.jpg?s=612x612&w=0&k=20&c=VTZGdHSxdEAqJqL5fS_1INkTC--AGhluPsx6b9sk1NA="
-    },
     {
       "id": "dc-flash",
       "superhero": "Flash",
